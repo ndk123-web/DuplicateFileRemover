@@ -1,5 +1,13 @@
 # 🔄 Duplicate File Remover (Node.js)
 
+
+Project Members :
+
+1. Navnath Kadam
+2. Sahil Khillari
+3. Yogest Gade
+4. Prathamesh Nitnaware
+
 This script scans a folder for duplicate files based on their **names** and **auto-generated copy patterns** (like `file`, `file copy`, `file copy 2`) and deletes the duplicates.
 
 ---
