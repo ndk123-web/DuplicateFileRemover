@@ -1,8 +1,6 @@
 # 🔄 Duplicate File Remover (Node.js)
 
-Computer NetWorks Project
-
-Project Members :
+Computer Networking Project Members :
 
 1. Navnath Kadam
 2. Sahil Khillari
