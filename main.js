@@ -92,4 +92,5 @@ const processDirectory = async () => {
   }
 };
 
+// main app to run 
 processDirectory();
